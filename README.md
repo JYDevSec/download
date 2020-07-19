@@ -1,1 +1,1 @@
-copyright © JYDevSec all rights reserved
+Copyright © JYDevSec All rights reserved
